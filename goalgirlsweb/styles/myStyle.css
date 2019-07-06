@@ -1368,7 +1368,7 @@ font-family: 'Heebo', sans-serif;
 }
 /*תמונה שלשה*/
 #Three {
-    background-image: url(../images/Three.jpg);
+    background-image: url(../images/Three.JPG);
     width: 500px;
     height: 400px;
     background-size: 77%;
@@ -1379,7 +1379,7 @@ font-family: 'Heebo', sans-serif;
 }
 /*חטיפה*/
 #snatch {
-    background-image: url(../images/snatch.jped);
+    background-image: url(../images/snatch.jpeg);
     width: 500px;
     height: 400px;
     background-size: 70%;
