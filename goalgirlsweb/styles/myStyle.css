@@ -67,7 +67,7 @@ header {
             padding-top: 12px;
             text-decoration: none;
             text-align: center;
-             font:11pt Heebo;
+             font:11pt 'Heebo';
         }
 
             #main ul li a:hover {
@@ -222,7 +222,7 @@ header {
 }
 
 .tennismenu span {
-    font: 26pt HEEBO;
+    font: 26pt 'HEEBO';
     color: black;
     background-color: #cccccc;
     height: 50PX;
@@ -237,7 +237,7 @@ header {
     }
 
 .basketballmenu span {
-    font: 26pt HEEBO;
+    font: 26pt 'Heebo';
     color: black;
     background-color: #cccccc;
     height: 50PX;
@@ -250,7 +250,7 @@ header {
     }
 
 .bowlingmenu span {
-    font: 26pt HEEBO;
+    font: 26pt 'Heebo';
     color: black;
     background-color: #cccccc;
     height: 50PX;
@@ -324,7 +324,7 @@ bottom: 50px;
 
 #titlecarousel {
     background-color: aquamarine;
-    font: 22pt 'Heebo Regular';
+    font: 22pt 'Heebo';
     width: 180px;
     text-align: center;
     z-index: 4;
@@ -340,7 +340,7 @@ bottom: 50px;
     padding-top:10px;
 }
 .Light {
-    font: 20pt 'Heebo Light';
+    font: 20pt 'Heebo';
     display: inline;
 }
 .bottomtitle {
@@ -350,7 +350,7 @@ bottom: 50px;
     margin-right:250px;
 }
 .pcarusel{
-    font-family:Heebo;
+    font-family:'Heebo';
     font-size:19px;
 }
 /*פוטר*/
@@ -384,7 +384,7 @@ height: 40px;
         text-align: center;
         margin-top: 10px;
         margin-right: 31px;
-        font: 11pt Heebo;
+        font: 11pt 'Heebo';
 
     }
 
@@ -509,10 +509,10 @@ footer p {
     /*תפריט פירורי לחם*/
 nav ol li {
     display: inline-block;
-    font: 20pt heebo;
+    font: 20pt 'Heebo';
 }
     nav ol li a{
-        font:20pt heebo;
+        font:20pt 'Heebo';
     }
     nav ol li:after {
         content: ">";
@@ -543,7 +543,7 @@ nav ol li {
         padding-top: 1px;
         text-decoration: none;
         text-align: center;
-        font: bold 22pt 'Heebo Light';
+        font: 22pt 'Heebo';
     }
 
 
@@ -569,7 +569,7 @@ background-color:#737f67
 }
 /* עמוד כדורגל*/
 .pbold{
-    font:bold 25pt Heebo;
+    font:bold 25pt 'Heebo';
     text-align:center;
 }
 
@@ -578,7 +578,7 @@ background-color:#737f67
     background-position: center;
     height: 300px;
     width: 1366px;
-    font: 70pt Heebo;
+    font: 70pt 'Heebo';
     background-size: 100%;
     background-repeat: no-repeat;
     margin: 0 auto;
@@ -607,12 +607,12 @@ background-color:#737f67
 
 .soccerconcept p{
 text-align:center;
-font:17pt Heebo; 
+font:17pt 'Heebo'; 
 }
 /*עושות סדר*/
 #makingorder {
     clear: both;
-    font: bold 25pt heebo;
+    font: bold 25pt 'Heebo';
     color: black;
     background-color: #67ae8a;
     height: 80px;
@@ -620,7 +620,7 @@ font:17pt Heebo;
     text-align: center;
     margin-top: 200px;
     padding-bottom: 99px;
-    font: 50pt heebo;
+    font: 50pt 'Heebo';
 }
 
 
@@ -629,7 +629,7 @@ font:17pt Heebo;
 /*לפצח את החוקים*/
 #cracktherules {
     clear: both;
-    font: bold 25pt heebo;
+    font: bold 25pt 'Heebo';
     color: black;
     background-color: #67ae8a;
     height: 80px;
@@ -637,12 +637,12 @@ font:17pt Heebo;
     text-align: center;
     margin-top: 200px;
     padding-bottom: 99px;
-    font: 50pt heebo;
+    font: 50pt 'Heebo';
     position:relative;
 }
 /*מבנה המגרש*/
 #structureofthefield {
-    font: bold 25pt heebo;
+    font: bold 25pt 'Heebo';
     color: black;
     background-color: #67ae8a;
     height: 80px;
@@ -650,7 +650,7 @@ font:17pt Heebo;
     text-align: center;
     margin-top: 200px;
     padding-bottom: 99px;
-    font: 50pt heebo;
+    font: 50pt 'Heebo';
     clear: both;
 }
 
