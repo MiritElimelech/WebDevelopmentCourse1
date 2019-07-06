@@ -11,7 +11,9 @@ body {
     width: 1366px;
     font-family: 'Heebo', sans-serif;
 }
-
+#container *{
+    font-family: 'Heebo', sans-serif;
+}
 header {
     position: sticky;
     top: 0;
