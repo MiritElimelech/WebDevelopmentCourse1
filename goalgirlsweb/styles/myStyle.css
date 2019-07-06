@@ -22,7 +22,7 @@ header {
         width: 240px;
         float:right;
     }
-    /*μεβε*/
+    /*ΧΧ•Χ’Χ•*/
 #alogo {
     width: 300px;
     display: inline-block;
@@ -35,7 +35,7 @@ header {
     padding-right: 10px;
 }
 
-/*ϊτψιθ ψΰωι*/
+/*ΧªΧ¤Χ¨Χ™Χ Χ¨ΧΧ©Χ™*/
 #skip {
     position: absolute;
     z-index: 300;
@@ -67,7 +67,7 @@ header {
             padding-top: 12px;
             text-decoration: none;
             text-align: center;
-             font: bold 11pt 'Heebo Light';
+             font:11pt Heebo;
         }
 
             #main ul li a:hover {
@@ -89,7 +89,7 @@ header {
 
 
 
-        /*ϊξεπϊ τϊιηδ*/
+        /*ΧªΧΧ•Χ Χª Χ¤ΧªΧ™Χ—Χ”*/
 
 #openingimage {
     background-image: url("../images/Opening image.jpg");
@@ -102,7 +102,7 @@ header {
     margin-top: 15px;
     clear: both;
 }
-/*ξωτθ τϊιηδ*/
+/*ΧΧ©Χ¤Χ Χ¤ΧªΧ™Χ—Χ”*/
 #openingsentence {
     border: 2px solid #f3561e;
     background-color: #f3561e;
@@ -117,7 +117,7 @@ header {
     padding-top: 10px;
     text-align: center;
 }
-/*ϊτψιθ ϊξεπεϊ*/
+/*ΧªΧ¤Χ¨Χ™Χ ΧªΧΧ•Χ Χ•Χª*/
 #second {
     margin-top: -18px;
 }
@@ -177,7 +177,7 @@ header {
     .bowlingmenu:hover {
         background-image: url(../images/bowling.jpg)
     }
-/*ωξεϊ μϊτψιθ ϊξεπεϊ*/
+/*Χ©ΧΧ•Χª ΧΧªΧ¤Χ¨Χ™Χ ΧªΧΧ•Χ Χ•Χª*/
 #second li {
     display: inline-block;
     margin-left: 56px;
@@ -263,7 +263,7 @@ header {
     }
 
 
-    /*χψερμδ*/
+    /*Χ§Χ¨Χ•Χ΅ΧΧ”*/
 .carousel-item {
     width: 100%;
     height: 300px;
@@ -353,7 +353,7 @@ bottom: 50px;
     font-family:Heebo;
     font-size:19px;
 }
-/*τεθψ*/
+/*Χ¤Χ•ΧΧ¨*/
 footer {
     background-color: #737f67;
     bottom: 0;
@@ -384,7 +384,7 @@ height: 40px;
         text-align: center;
         margin-top: 10px;
         margin-right: 31px;
-        font: bold 11pt 'Heebo Light';
+        font: 11pt Heebo;
 
     }
 
@@ -456,11 +456,11 @@ footer p {
 }
     
 
-/*μΰ τςιμ*/
+/*ΧΧ Χ¤ΧΆΧ™Χ*/
 .notActive {
     cursor: not-allowed;
 }
-/*ϊτψιθ αςξεγιν τπιξιιν*/
+/*ΧªΧ¤Χ¨Χ™Χ Χ‘ΧΆΧΧ•Χ“Χ™Χ Χ¤Χ Χ™ΧΧ™Χ™Χ*/
 .buttons {
     margin-right:600px;
     
@@ -497,7 +497,7 @@ footer p {
     background-color: #395723;
     color: white;
 }
-/*φας πωΰψ αϊτψιθ*/
+/*Χ¦Χ‘ΧΆ Χ Χ©ΧΧ¨ Χ‘ΧªΧ¤Χ¨Χ™Χ*/
 .currentPage {
     background-color: dimgrey !important;
     color: white !important;
@@ -506,7 +506,7 @@ footer p {
     .currentpage nav ul li a:active {
         background-color: dimgrey;
     }
-    /*ϊτψιθ τιψεψι μην*/
+    /*ΧªΧ¤Χ¨Χ™Χ Χ¤Χ™Χ¨Χ•Χ¨Χ™ ΧΧ—Χ*/
 nav ol li {
     display: inline-block;
     font: 20pt heebo;
@@ -523,7 +523,7 @@ nav ol li {
     }
  
 
-/*ϊτψιθ ωμιωι*/
+/*ΧªΧ¤Χ¨Χ™Χ Χ©ΧΧ™Χ©Χ™*/
 .Third {
     float: right;
     padding-top: 2px;
@@ -567,7 +567,7 @@ background-color:#737f67
 .Thirdbowling {
     background-color: #3C6F8D;
 }
-/* ςξεγ λγεψβμ*/
+/* ΧΆΧΧ•Χ“ Χ›Χ“Χ•Χ¨Χ’Χ*/
 .pbold{
     font:bold 25pt Heebo;
     text-align:center;
@@ -578,7 +578,7 @@ background-color:#737f67
     background-position: center;
     height: 300px;
     width: 1366px;
-    font: 70pt 'Heebo Medium';
+    font: 70pt Heebo;
     background-size: 100%;
     background-repeat: no-repeat;
     margin: 0 auto;
@@ -609,7 +609,7 @@ background-color:#737f67
 text-align:center;
 font:17pt Heebo; 
 }
-/*ςεωεϊ ργψ*/
+/*ΧΆΧ•Χ©Χ•Χª Χ΅Χ“Χ¨*/
 #makingorder {
     clear: both;
     font: bold 25pt heebo;
@@ -626,7 +626,7 @@ font:17pt Heebo;
 
 
 
-/*μτφη ΰϊ δηεχιν*/
+/*ΧΧ¤Χ¦Χ— ΧΧª Χ”Χ—Χ•Χ§Χ™Χ*/
 #cracktherules {
     clear: both;
     font: bold 25pt heebo;
@@ -640,7 +640,7 @@ font:17pt Heebo;
     font: 50pt heebo;
     position:relative;
 }
-/*ξαπδ δξβψω*/
+/*ΧΧ‘Χ Χ” Χ”ΧΧ’Χ¨Χ©*/
 #structureofthefield {
     font: bold 25pt heebo;
     color: black;
@@ -655,9 +655,9 @@ font:17pt Heebo;
 }
 
 
-/*ϊξεπεϊ λγεψβμ*/
-/*ςεωεϊ ργψ*/
-/*λγεψ*/
+/*ΧªΧΧ•Χ Χ•Χª Χ›Χ“Χ•Χ¨Χ’Χ*/
+/*ΧΆΧ•Χ©Χ•Χª Χ΅Χ“Χ¨*/
+/*Χ›Χ“Χ•Χ¨*/
 #ballsoccer {
     background-image: url(../images/ballsoccer.jpg);
     width: 350px;
@@ -667,7 +667,7 @@ font:17pt Heebo;
     margin: 0 auto;
     margin-top: 75px;
 }
-/*ωςψ*/
+/*Χ©ΧΆΧ¨*/
 #goal {
     background-image: url(../images/goal.jpeg);
     width: 350px;
@@ -677,7 +677,7 @@ font:17pt Heebo;
     margin: 0 auto;
     margin-top: 105px;
 }
-/*ψηαδ*/
+/*Χ¨Χ—Χ‘Χ”*/
 #wide {
     background-image: url(../images/Wide.jpg);
     width: 400px;
@@ -688,7 +688,7 @@ font:17pt Heebo;
     margin-top: 106px;
     margin-right: 8px;
 }
-/*χψο*/
+/*Χ§Χ¨Χ*/
 #keren {
     background-image: url(../images/keren.jpg);
     width: 500px;
@@ -699,7 +699,7 @@ font:17pt Heebo;
     margin-right: -122px;
     margin-top: 8px;
 }
-/*τΰεμ*/
+/*Χ¤ΧΧ•Χ*/
 #faol {
     background-image: url(../images/faol.jpeg);
     width: 500px;
@@ -711,7 +711,7 @@ font:17pt Heebo;
     margin-top: 73px;
 }
 
-/*τπγμ*/
+/*Χ¤Χ Χ“Χ*/
 #pendel {
     background-image: url(../images/pendel.jpg);
     width: 500px;
@@ -722,7 +722,7 @@ font:17pt Heebo;
     margin-right: -125px;
     margin-top: 45px;
 }
-/*παγμ*/
+/*Χ Χ‘Χ“Χ*/
 #nivdal {
     background-image: url(../images/nivdal.jpg);
     width: 500px;
@@ -733,7 +733,7 @@ font:17pt Heebo;
     margin-right: -95px;
     margin-top: 36px;
 }
-/*αςιθδ ηετωιϊ*/
+/*Χ‘ΧΆΧ™ΧΧ” Χ—Χ•Χ¤Χ©Χ™Χª*/
 #freekick {
     background-image: url(../images/freekick.jpg);
     width: 500px;
@@ -744,7 +744,7 @@ font:17pt Heebo;
     margin-right: -119px;
     margin-top: 35px;
 }
-/*ξμκ δωςψιν*/
+/*ΧΧΧ Χ”Χ©ΧΆΧ¨Χ™Χ*/
 #kingscorer {
     background-image: url(../images/kingscorer.jpeg);
     width: 500px;
@@ -755,7 +755,7 @@ font:17pt Heebo;
     margin-right: -100px;
     margin-top: 42px;
 }
-/*ξωηχ αιϊ*/
+/*ΧΧ©Χ—Χ§ Χ‘Χ™Χª*/
 #gamehouse {
     background-image: url(../images/gamehouse.jpeg);
     width: 500px;
@@ -766,7 +766,7 @@ font:17pt Heebo;
     margin-right: -119px;
     margin-top: 93px;
 }
-/*ξωηχ ηευ*/
+/*ΧΧ©Χ—Χ§ Χ—Χ•Χ¥*/
 #gameoutside {
     background-image: url(../images/gameoutside.jpeg);
     width: 500px;
@@ -777,8 +777,8 @@ font:17pt Heebo;
     margin-right: -119px;
     margin-top: 35px;
 }
-/*μτφη ΰϊ δηεχιν*/
-/*λψθιριν*/
+/*ΧΧ¤Χ¦Χ— ΧΧª Χ”Χ—Χ•Χ§Χ™Χ*/
+/*Χ›Χ¨ΧΧ™Χ΅Χ™Χ*/
 #card {
     background-image: url(../images/redandyellowcard.jpg);
     width: 500px;
@@ -789,7 +789,7 @@ font:17pt Heebo;
     margin-right: -152px;
     margin-top: -14px;
 }
-/*ϊερτϊ ζξο*/
+/*ΧªΧ•Χ΅Χ¤Χª Χ–ΧΧ*/
 #extratime2 {
     background-image: url(../images/extratime2.jpeg);
     width: 500px;
@@ -800,7 +800,7 @@ font:17pt Heebo;
     margin-right: -199px;
     margin-top: 36px;
 }
-/*δΰψλδ*/
+/*Χ”ΧΧ¨Χ›Χ”*/
 #extratime {
     background-image: url(../images/extratime.jpeg);
     width: 500px;
@@ -811,7 +811,7 @@ font:17pt Heebo;
     margin-right: -152px;
     margin-top: 27px;
 }
-/*ωετθ*/
+/*Χ©Χ•Χ¤Χ*/
 #judge {
     background-image: url(../images/judge.jpeg);
     width: 500px;
@@ -825,7 +825,7 @@ font:17pt Heebo;
 ul {
     list-style: none;
 }
-/*ξβψω λγεψβμ*/
+/*ΧΧ’Χ¨Χ© Χ›Χ“Χ•Χ¨Χ’Χ*/
 #soccerfield {
     clear: both;
     background-image: url(../images/soccerfield.jpeg);
@@ -1082,8 +1082,8 @@ ul {
     color: white;
     font: 10pt Heebo;
     text-align: center;
-    margin-top: -417px;
-    margin-right: 962px;
+    margin-top: 50px;
+    margin-right: -5px;
     position: absolute;
     display: inline-block;
 }
@@ -1208,13 +1208,13 @@ ul {
     position: absolute;
     display: inline-block;
 }
-    /*λγεψρμ ςξεγ*/
+    /*Χ›Χ“Χ•Χ¨Χ΅Χ ΧΆΧΧ•Χ“*/
     .banerbasketball {
     background-image: url(../images/basketball.jpg);
     background-position: center;
     height: 300px;
     width: 1366px;
-    font: 70pt 'Heebo Medium';
+    font: 70pt Heebo;
     background-size: 100%;
     background-repeat: no-repeat;
     margin: 0 auto;
@@ -1245,8 +1245,8 @@ ul {
 }
 
 
-/*ϊξεπεϊ λγεψρμ
-/*ΰιιψαεμ*/
+/*ΧªΧΧ•Χ Χ•Χª Χ›Χ“Χ•Χ¨Χ΅Χ
+/*ΧΧ™Χ™Χ¨Χ‘Χ•Χ*/
 #airball {
     background-image: url(../images/airball.jpeg);
     width: 500px;
@@ -1257,7 +1257,7 @@ ul {
     margin-right: -103px;
     margin-top: 90px;
 }
-/*απχ ωεθ*/
+/*Χ‘Χ Χ§ Χ©Χ•Χ*/
 #bankshot {
     background-image: url(../images/bankshot.jpeg);
     width: 500px;
@@ -1268,7 +1268,7 @@ ul {
     margin-right: -93px;
     margin-top: 58px;
 }
-/*ξριψϊ αιιραεμ*/
+/*ΧΧ΅Χ™Χ¨Χª Χ‘Χ™Χ™Χ΅Χ‘Χ•Χ*/
 #baseball {
     background-image: url(../images/baseball.jpg);
     width: 500px;
@@ -1279,7 +1279,7 @@ ul {
     margin-right: -100px;
     margin-top: 90px;
 }
-/*αιιρμιιο*/
+/*Χ‘Χ™Χ™Χ΅ΧΧ™Χ™Χ*/
 #baseline {
     background-image: url(../images/baseline.jpeg);
     width: 500px;
@@ -1290,7 +1290,7 @@ ul {
     margin-right: -120px;
     margin-top: 24px;
 }
-/*ξριψϊ ηζδ*/
+/*ΧΧ΅Χ™Χ¨Χª Χ—Χ–Χ”*/
 #passaball {
     background-image: url(../images/passaball.jpeg);
     width: 500px;
@@ -1301,7 +1301,7 @@ ul {
     margin-right: -96px;
     margin-top: 23px;
 }
-/*χμιςϊ ςεπωιο*/
+/*Χ§ΧΧ™ΧΆΧª ΧΆΧ•Χ Χ©Χ™Χ*/
 #shootingpenalty {
     background-image: url(../images/shootingpenalty.jpeg);
     width: 500px;
@@ -1312,7 +1312,7 @@ ul {
     margin-right: -148px;
     margin-top: -11px;
 }
-/*χωϊ δωμεω*/
+/*Χ§Χ©Χª Χ”Χ©ΧΧ•Χ©*/
 #rainbowthree {
     background-image: url(../images/rainbowthree.jpeg);
     width: 500px;
@@ -1323,7 +1323,7 @@ ul {
     margin-right: -108px;
     margin-top: 77px;
 }
-/*ϊξεπδ ωμωδ*/
+/*ΧªΧΧ•Χ Χ” Χ©ΧΧ©Χ”*/
 #Three {
     background-image: url(../images/Three.JPG);
     width: 500px;
@@ -1334,7 +1334,7 @@ ul {
     margin-right: -93px;
     margin-top: 62px;
 }
-/*ηθιτδ*/
+/*Χ—ΧΧ™Χ¤Χ”*/
 #snatch {
     background-image: url(../images/snatch.JPeG);
     width: 500px;
@@ -1345,7 +1345,7 @@ ul {
     margin-right: -112px;
     margin-top: 89px;
 }
-/*ϊξεπδ ηριξδ*/
+/*ΧªΧΧ•Χ Χ” Χ—Χ΅Χ™ΧΧ”*/
 #obstruction {
     background-image: url(../images/obstruction.JPG);
     width: 500px;
@@ -1356,7 +1356,7 @@ ul {
     margin-right: -101px;
     margin-top: 48px;
 }
-/*μιιΰτ*/
+/*ΧΧ™Χ™ΧΧ¤*/
 #layup {
     background-image: url(../images/layup.JPeG);
     width: 500px;
@@ -1367,7 +1367,7 @@ ul {
     margin-right: -139px;
     margin-top: -20px;
 }
-/*δθαςδ*/
+/*Χ”ΧΧ‘ΧΆΧ”*/
 #hit {
     background-image: url(../images/hit.JPG);
     width: 500px;
@@ -1378,7 +1378,7 @@ ul {
     margin-right: -109px;
     margin-top: 100px;
 }
-/*ζψιχϊ εε*/
+/*Χ–Χ¨Χ™Χ§Χª Χ•Χ•*/
 #hookvav {
     background-image: url(../images/hookvav.JPeG);
     width: 500px;
@@ -1389,7 +1389,7 @@ ul {
     margin-right: -102px;
     margin-top: 59px;
 }
-/*ψιαΰεπγ*/
+/*Χ¨Χ™Χ‘ΧΧ•Χ Χ“*/
 #rebound {
     background-image: url(../images/rebound.JPeG);
     width: 500px;
@@ -1400,7 +1400,7 @@ ul {
     margin-right: -137px;
     margin-top: -14px;
 }
-/*ωςεο ζψιχεϊ*/
+/*Χ©ΧΆΧ•Χ Χ–Χ¨Χ™Χ§Χ•Χª*/
 #watch {
     background-image: url(../images/watch.JPeG);
     width: 500px;
@@ -1412,8 +1412,8 @@ ul {
     margin-top: -15px;
 }
 
-/*μτφη ΰϊ δηεχιν*/
-/*λγεψ αιπιιν*/
+/*ΧΧ¤Χ¦Χ— ΧΧª Χ”Χ—Χ•Χ§Χ™Χ*/
+/*Χ›Χ“Χ•Χ¨ Χ‘Χ™Χ Χ™Χ™Χ*/
 #Intermediateball {
     background-image: url(../images/Intermediateball.jpg);
     width: 500px;
@@ -1424,7 +1424,7 @@ ul {
     margin-right: -191px;
     margin-top: -15px;
 }
-/*ωμεω ωπιεϊ*/
+/*Χ©ΧΧ•Χ© Χ©Χ Χ™Χ•Χª*/
 #threeseconds {
     background-image: url(../images/threeseconds.jpg);
     width: 500px;
@@ -1435,7 +1435,7 @@ ul {
     margin-right: -124px;
     margin-top: -15px;
 }
-/*ςωψιν εΰψας ωπιεϊ*/
+/*ΧΆΧ©Χ¨Χ™Χ Χ•ΧΧ¨Χ‘ΧΆ Χ©Χ Χ™Χ•Χª*/
 #klaxon {
     background-image: url(../images/klaxon.jpg);
     width: 500px;
@@ -1446,7 +1446,7 @@ ul {
     margin-right: -131px;
     margin-top: 49px;
 }
-/*πιχεγ*/
+/*Χ Χ™Χ§Χ•Χ“*/
 #basketballscore {
     background-image: url(../images/basketballscore.jpg);
     width: 500px;
@@ -1457,7 +1457,7 @@ ul {
     margin-right: -182px;
     margin-top: -15px;
 }
-/*ζξπιν*/
+/*Χ–ΧΧ Χ™Χ*/
 #watchbasketball {
     background-image: url(../images/watchbasketball.jpg);
     width: 500px;
@@ -1468,7 +1468,7 @@ ul {
     margin-right: -172px;
     margin-top: -15px;
 }
-/*ϊπεςδ ςν δλγεψ*/
+/*ΧªΧ Χ•ΧΆΧ” ΧΆΧ Χ”Χ›Χ“Χ•Χ¨*/
 #movement {
     background-image: url(../images/movement.jpg);
     width: 500px;
@@ -1479,7 +1479,7 @@ ul {
     margin-right: -209px;
     margin-top: -15px;
 }
-/*ωηχπιν*/
+/*Χ©Χ—Χ§Χ Χ™Χ*/
 #players {
     background-image: url(../images/players.jpg);
     width: 500px;
@@ -1490,7 +1490,7 @@ ul {
     margin-right: -124px;
     margin-top: -15px;
 }
-/*ςξεγ φψι χωψ*/
+/*ΧΆΧΧ•Χ“ Χ¦Χ¨Χ™ Χ§Χ©Χ¨*/
 .required {
     color: #AD0003;
     FONT-WEIGHT: bold;
@@ -1564,7 +1564,7 @@ form {
     width: 100px;
     font: 25pt 'Heebo';
 }
-/*ΰεγεϊ*/
+/*ΧΧ•Χ“Χ•Χª*/
 #aboutphoto {
 background-image: url(../images/aboutphoto.jpg);
 background-position:center;
@@ -1589,7 +1589,7 @@ text-align: center;
     margin-top: -274px;
     text-align: center;
 }
-/*μεβε HIT*/
+/*ΧΧ•Χ’Χ• HIT*/
 #logohit {
     background-image: url(../images/logohit.jpg);
     width: 500px;
@@ -1602,8 +1602,8 @@ text-align: center;
 #tlm{
 margin-right:510px;
 }
-/*ςξεγ ξτϊ δΰϊψ*/
-/*αΰπψ*/
+/*ΧΆΧΧ•Χ“ ΧΧ¤Χª Χ”ΧΧªΧ¨*/
+/*Χ‘ΧΧ Χ¨*/
 #webmap {
     background-image: url(../images/webmap.jpg);
     background-position: center;
