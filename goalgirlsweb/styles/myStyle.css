@@ -1,5 +1,7 @@
 
-h1,h2,h3,h4,h5,h6,section,a,p,article,label,input{font-family:'Heebo'}
+h1, h2, h3, h4, h5, h6, section, a, p, article, label, input {
+    font-family: Heebo
+}
 body {
     direction: rtl;
     font-family: 'Heebo', sans-serif;
@@ -12,7 +14,7 @@ body {
     font-family: 'Heebo', sans-serif;
 }
 #container *{
-    font-family: 'Heebo', sans-serif;
+    font-family: 'Heebo';
 }
 header {
     position: sticky;
