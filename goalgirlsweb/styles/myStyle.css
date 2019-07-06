@@ -1368,7 +1368,7 @@ font-family: 'Heebo', sans-serif;
 }
 /*תמונה שלשה*/
 #Three {
-    background-image: url(../images/Three.JPG);
+    background-image: url(../images/Three.jpg);
     width: 500px;
     height: 400px;
     background-size: 77%;
@@ -1379,7 +1379,7 @@ font-family: 'Heebo', sans-serif;
 }
 /*חטיפה*/
 #snatch {
-    background-image: url(../images/snatch.JPeG);
+    background-image: url(../images/snatch.jped);
     width: 500px;
     height: 400px;
     background-size: 70%;
@@ -1390,7 +1390,7 @@ font-family: 'Heebo', sans-serif;
 }
 /*תמונה חסימה*/
 #obstruction {
-    background-image: url(../images/obstruction.JPG);
+    background-image: url(../images/obstruction.jpg);
     width: 500px;
     height: 400px;
     background-size: 74%;
@@ -1401,7 +1401,7 @@ font-family: 'Heebo', sans-serif;
 }
 /*לייאפ*/
 #layup {
-    background-image: url(../images/layup.JPeG);
+    background-image: url(../images/layup.jpeg);
     width: 500px;
     height: 400px;
     background-size: 58%;
@@ -1412,7 +1412,7 @@ font-family: 'Heebo', sans-serif;
 }
 /*הטבעה*/
 #hit {
-    background-image: url(../images/hit.JPG);
+    background-image: url(../images/hit.jpg);
     width: 500px;
     height: 400px;
     background-size: 71%;
@@ -1423,7 +1423,7 @@ font-family: 'Heebo', sans-serif;
 }
 /*זריקת וו*/
 #hookvav {
-    background-image: url(../images/hookvav.JPeG);
+    background-image: url(../images/hookvav.jpeg);
     width: 500px;
     height: 400px;
     background-size: 73%;
@@ -1434,7 +1434,7 @@ font-family: 'Heebo', sans-serif;
 }
 /*ריבאונד*/
 #rebound {
-    background-image: url(../images/rebound.JPeG);
+    background-image: url(../images/rebound.jpeg);
     width: 500px;
     height: 400px;
     background-size: 61%;
@@ -1445,7 +1445,7 @@ font-family: 'Heebo', sans-serif;
 }
 /*שעון זריקות*/
 #watch {
-    background-image: url(../images/watch.JPeG);
+    background-image: url(../images/watch.jpeg);
     width: 500px;
     height: 400px;
     background-size: 65%;
