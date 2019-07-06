@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Heebo:100,300,400,500,700,800,900&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Heebo&display=swap');
 
 body {
     direction: rtl;
@@ -67,7 +67,8 @@ header {
             padding-top: 12px;
             text-decoration: none;
             text-align: center;
-             font:11pt 'Heebo';
+             font-size:11pt;
+            font-family: 'Heebo', sans-serif;
         }
 
             #main ul li a:hover {
@@ -202,12 +203,13 @@ header {
         text-decoration: none;
         text-align: center;
         font-family: 'Heebo', sans-serif;
+        font-size: 26pt;
     }
 
 
 
 .soccermenu span {
-    font: 26pt HEEBO;
+ 
     color: black;
     background-color: #cccccc;
     height: 50PX;
@@ -222,7 +224,7 @@ header {
 }
 
 .tennismenu span {
-    font: 26pt 'HEEBO';
+    
     color: black;
     background-color: #cccccc;
     height: 50PX;
@@ -237,7 +239,7 @@ header {
     }
 
 .basketballmenu span {
-    font: 26pt 'Heebo';
+   
     color: black;
     background-color: #cccccc;
     height: 50PX;
@@ -250,7 +252,7 @@ header {
     }
 
 .bowlingmenu span {
-    font: 26pt 'Heebo';
+    
     color: black;
     background-color: #cccccc;
     height: 50PX;
@@ -324,7 +326,8 @@ bottom: 50px;
 
 #titlecarousel {
     background-color: aquamarine;
-    font: 22pt 'Heebo';
+    font-size: 22pt;
+    font-family: 'Heebo', sans-serif;
     width: 180px;
     text-align: center;
     z-index: 4;
@@ -340,7 +343,8 @@ bottom: 50px;
     padding-top:10px;
 }
 .Light {
-    font: 20pt 'Heebo';
+    font-size: 20pt;
+    font-family: 'Heebo', sans-serif;
     display: inline;
 }
 .bottomtitle {
@@ -350,7 +354,7 @@ bottom: 50px;
     margin-right:250px;
 }
 .pcarusel{
-    font-family:'Heebo';
+    font-family: 'Heebo', sans-serif;
     font-size:19px;
 }
 /*פוטר*/
@@ -384,7 +388,8 @@ height: 40px;
         text-align: center;
         margin-top: 10px;
         margin-right: 31px;
-        font: 11pt 'Heebo';
+        font-size: 11pt;
+        font-family: 'Heebo', sans-serif;
 
     }
 
@@ -509,10 +514,12 @@ footer p {
     /*תפריט פירורי לחם*/
 nav ol li {
     display: inline-block;
-    font: 20pt 'Heebo';
+    font-size: 20pt;
+    font-family: 'Heebo', sans-serif;
 }
     nav ol li a{
-        font:20pt 'Heebo';
+        font-size:20pt;
+        font-family: 'Heebo', sans-serif;
     }
     nav ol li:after {
         content: ">";
@@ -543,7 +550,8 @@ nav ol li {
         padding-top: 1px;
         text-decoration: none;
         text-align: center;
-        font: 22pt 'Heebo';
+        font-size: 22pt;
+        font-family: 'Heebo', sans-serif;
     }
 
 
@@ -578,7 +586,8 @@ background-color:#737f67
     background-position: center;
     height: 300px;
     width: 1366px;
-    font: 70pt 'Heebo';
+    font-size: 70pt;
+    font-family: 'Heebo', sans-serif;
     background-size: 100%;
     background-repeat: no-repeat;
     margin: 0 auto;
@@ -588,7 +597,7 @@ background-color:#737f67
 }
 .soccerconcept h3 {
     text-align: center;
-    font: bold 30pt Heebo;
+    font: bold 30pt 'Heebo';
     color: darkslategrey;
     display: inline-block;
     width: 429px;
@@ -603,16 +612,18 @@ background-color:#737f67
     height: 500px;
     text-align: right;
     font-size: 20pt;
+    font-family: 'Heebo', sans-serif;
 }
 
 .soccerconcept p{
 text-align:center;
-font:17pt 'Heebo'; 
+font-size:17pt; 
+ font-family: 'Heebo', sans-serif;
 }
 /*עושות סדר*/
 #makingorder {
     clear: both;
-    font: bold 25pt 'Heebo';
+    
     color: black;
     background-color: #67ae8a;
     height: 80px;
@@ -620,7 +631,8 @@ font:17pt 'Heebo';
     text-align: center;
     margin-top: 200px;
     padding-bottom: 99px;
-    font: 50pt 'Heebo';
+    font-size: 50pt;
+    font-family: 'Heebo', sans-serif;
 }
 
 
@@ -629,7 +641,7 @@ font:17pt 'Heebo';
 /*לפצח את החוקים*/
 #cracktherules {
     clear: both;
-    font: bold 25pt 'Heebo';
+    
     color: black;
     background-color: #67ae8a;
     height: 80px;
@@ -637,12 +649,13 @@ font:17pt 'Heebo';
     text-align: center;
     margin-top: 200px;
     padding-bottom: 99px;
-    font: 50pt 'Heebo';
+    font-size: 50pt;
+    font-family: 'Heebo', sans-serif;
     position:relative;
 }
 /*מבנה המגרש*/
 #structureofthefield {
-    font: bold 25pt 'Heebo';
+    
     color: black;
     background-color: #67ae8a;
     height: 80px;
@@ -650,7 +663,8 @@ font:17pt 'Heebo';
     text-align: center;
     margin-top: 200px;
     padding-bottom: 99px;
-    font: 50pt 'Heebo';
+    font-size: 50pt;
+    font-family: 'Heebo', sans-serif;
     clear: both;
 }
 
@@ -950,7 +964,8 @@ ul {
     width: 150px;
     height: 100px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     position: absolute;
 }
@@ -960,7 +975,8 @@ ul {
     width: 150px;
     height: 100px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -512px;
     margin-right: 944px;
@@ -972,7 +988,8 @@ ul {
     width: 150px;
     height: 100px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -512px;
     margin-right: 944px;
@@ -984,7 +1001,8 @@ ul {
     width: 150px;
     height: 100px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -512px;
     margin-right: 944px;
@@ -996,7 +1014,8 @@ ul {
     width: 150px;
     height: 100px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -512px;
     margin-right: 944px;
@@ -1008,7 +1027,8 @@ ul {
     width: 150px;
     height: 100px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+   font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -512px;
     margin-right: 944px;
@@ -1020,7 +1040,8 @@ ul {
     width: 150px;
     height: 100px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -512px;
     margin-right: 944px;
@@ -1032,7 +1053,8 @@ ul {
     width: 150px;
     height: 100px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -512px;
     margin-right: 944px;
@@ -1045,7 +1067,8 @@ ul {
     width: 150px;
     height: 100px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -512px;
     margin-right: 944px;
@@ -1057,7 +1080,8 @@ ul {
     width: 150px;
     height: 100px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -512px;
     margin-right: 944px;
@@ -1069,7 +1093,8 @@ ul {
     width: 150px;
     height: 100px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -512px;
     margin-right: 944px;
@@ -1080,7 +1105,8 @@ ul {
     width: 150px;
     height: 120px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: 50px;
     margin-right: -5px;
@@ -1092,7 +1118,8 @@ ul {
     width: 150px;
     height: 120px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -530px;
     margin-right: 890px;
@@ -1104,7 +1131,8 @@ ul {
     width: 150px;
     height: 120px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -300px;
     margin-right: 990px;
@@ -1116,7 +1144,8 @@ ul {
     width: 150px;
     height: 120px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -600px;
     margin-right: 890px;
@@ -1129,7 +1158,8 @@ ul {
     width: 150px;
     height: 120px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -200px;
     margin-right: 890px;
@@ -1141,7 +1171,8 @@ ul {
     width: 150px;
     height: 120px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -400px;
     margin-right: 730px;
@@ -1153,7 +1184,8 @@ ul {
     width: 150px;
     height: 120px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -200px;
     margin-right: 590px;
@@ -1165,7 +1197,8 @@ ul {
     width: 150px;
     height: 120px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -600px;
     margin-right: 590px;
@@ -1177,7 +1210,8 @@ ul {
     width: 150px;
     height: 120px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -400px;
     margin-right: 550px;
@@ -1189,7 +1223,8 @@ ul {
     width: 150px;
     height: 120px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -500px;
     margin-right: 400px;
@@ -1201,7 +1236,8 @@ ul {
     width: 150px;
     height: 120px;
     color: white;
-    font: 10pt Heebo;
+    font-size: 10pt;
+    font-family: 'Heebo', sans-serif;
     text-align: center;
     margin-top: -320px;
     margin-right: 400px;
@@ -1214,14 +1250,15 @@ ul {
     background-position: center;
     height: 300px;
     width: 1366px;
-    font: 70pt Heebo;
+    font-size: 70pt;
+    font-family: 'Heebo', sans-serif;
     background-size: 100%;
     background-repeat: no-repeat;
     margin: 0 auto;
 }
     .basketballconcept h3 {
     text-align: center;
-    font: bold 30pt Heebo;
+    font: bold 30pt 'Heebo';
     color: darkslategrey;
     display: inline-block;
     width: 429px;
@@ -1229,7 +1266,8 @@ ul {
 }
     .basketballconcept p {
     text-align: center;
-    font: 17pt Heebo;
+    font-size: 17pt;
+font-family: 'Heebo', sans-serif;
     
 }
 
@@ -1242,6 +1280,7 @@ ul {
     height: 500px;
     text-align: right;
     font-size: 20pt;
+    font-family: 'Heebo', sans-serif;
 }
 
 
@@ -1500,7 +1539,8 @@ ul {
     background-position: center;
     height: 400px;
     width: 1366px;
-    font: 70pt 'Heebo Medium';
+    font-size: 70pt;
+    font-family: 'Heebo', sans-serif;
     background-size: 100%;
     background-repeat: no-repeat;
     margin: 0 auto;
@@ -1513,14 +1553,16 @@ label {
 input[type ='text'] {
     display: block;
     margin-bottom: 15px;
-    font: 18px 'Heebo';
+    font-size: 18px;
+    font-family: 'Heebo', sans-serif;
     width:400px;
 }
 
 #myMS {
     display: block;
     margin-bottom: 15px;
-    font: 18px 'Heebo';
+    font-size: 18px;
+    font-family: 'Heebo', sans-serif;
     width: 400px;
     height:200px;
 }
@@ -1541,7 +1583,8 @@ input[type ='submit'] {
 
 #contact p {
     
-    font: 15pt 'Heebo';
+    font-size: 15pt;
+    font-family: 'Heebo', sans-serif;
     margin-right: 50px;
     
 }
@@ -1562,7 +1605,8 @@ form {
     margin-right: 100px;
     height: 100px;
     width: 100px;
-    font: 25pt 'Heebo';
+    font-size: 25pt;
+    font-family: 'Heebo', sans-serif;
 }
 /*אודות*/
 #aboutphoto {
@@ -1578,7 +1622,8 @@ text-align: center;
 
 }
 #pabout {
-    font: 15pt 'Heebo';
+    font-size: 15pt;
+    font-family: 'Heebo', sans-serif;
     margin-right: 50px;
     margin-top:200px;
     padding-bottom:400px;
@@ -1618,7 +1663,8 @@ margin-right:510px;
 
 
 .webmap ul a {
-    font: 18pt Heebo;  
+    font-size: 18pt;
+    font-family: 'Heebo', sans-serif;  
 }
 
 .webmap .listimg {
@@ -1635,6 +1681,6 @@ margin-right:510px;
     color:black;
 }
 .webmap p{
-    font: bold 27pt Heebo;
+    font: bold 27pt 'Heebo';
     text-align:center;
 }
